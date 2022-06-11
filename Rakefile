@@ -6,4 +6,3 @@ require 'minitest/pride'
 
 task :default do
 end
-
